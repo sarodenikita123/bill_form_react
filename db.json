@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "no": "101",
+      "cname": "nikita sarode",
+      "pname": "cloth",
+      "price": "5000",
+      "city": "amravti",
+      "id": 1
+    }
+  ]
+}
